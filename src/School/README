@@ -14,7 +14,7 @@ Requirements:
 10.	View all the courses of a department
 11.	View student’s courses that have a specific grade
 12.	Get list of teachers, employees, or students sorted by name or id
-13.         Add a course to a teachers list of courses taught (ensure that no duplicates are added and that the
+13.        Add a course to a teachers list of courses taught (ensure that no duplicates are added and that the
             teacher has availability at the time)
 14. 	View list of courses in a given semester
 
