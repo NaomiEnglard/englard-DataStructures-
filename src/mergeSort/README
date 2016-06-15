@@ -1,0 +1,1 @@
+Sort a list of numbers by splitting them into smaller lists and sorting each of the smaller lists. Then merge all the mini lists. 
